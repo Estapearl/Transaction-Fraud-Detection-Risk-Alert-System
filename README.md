@@ -39,4 +39,13 @@
 
 <p>Although transaction and customer data were available, there was no structured system to flag potentially fraudulent transactions in a timely manner. This made it challenging to prevent customer frustration, potential financial losses, or compliance issues.</p>
 
+## Section 2 – Business Problem Statement
+---
+FinTech Solutions Inc. wanted to proactively detect suspicious transactions before they impacted customers or eroded trust. With increasing transaction volumes and more diverse customer accounts, it became harder for the fraud team to identify high-risk activity quickly.
+
+Although transaction and customer data were available, there was no structured system to flag potentially fraudulent transactions in a timely manner. This made it challenging to prevent customer frustration, potential financial losses, or compliance issues.
+
+The client needed a practical, data-driven approach to identify and prioritize high-risk transactions, assign risk levels, and provide an investigator-ready alert system—helping the team act before fraud affects the customer experience or business reputation.
+
+
 <p>The client needed a practical, data-driven approach to identify and prioritize high-risk transactions, assign risk levels, and provide an investigator-ready alert system—helping the team act before fraud affects the customer experience or business reputation.</p>
