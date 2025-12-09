@@ -31,3 +31,33 @@
     <li>Business Operations</li>
   </ul>
 </section>
+----
+<!-- Business Problem Statement -->
+<section id="business-problem">
+  <h2>2. Business Problem Statement</h2>
+
+  <p>
+    As transaction activity increased, FinTech Solutions Inc. faced growing exposure
+    to potential fraud across its card payment platform. Fraud analysts were required
+    to review large volumes of transactions, many of which posed little or no actual risk,
+    making investigations time-consuming and inefficient.
+  </p>
+
+  <p>
+    The absence of a structured fraud alerting framework made it difficult to
+    consistently identify which transactions required immediate attention. Without
+    clear prioritization, high-risk transactions could be reviewed too late, while
+    analyst effort was spent on low-risk activity.
+  </p>
+
+  <p>
+    The business needed a practical, data-driven approach that could:
+  </p>
+
+  <ul>
+    <li>Flag suspicious transactions using well-defined rules</li>
+    <li>Prioritize alerts based on risk level</li>
+    <li>Support timely investigations and regulatory reporting (SARs)</li>
+  </ul>
+</section>
+
