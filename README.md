@@ -32,7 +32,7 @@
   </ul>
 </section>
 
-<h2>Section 2 – Business Problem Statement</h2>
+<h2>2. Business Problem Statement</h2>
 
 <p>FinTech Solutions Inc. wanted to proactively detect suspicious transactions before they impacted customers or eroded trust. With increasing transaction volumes and more diverse customer accounts, it became harder for the fraud team to identify high-risk activity quickly.</p>
 
