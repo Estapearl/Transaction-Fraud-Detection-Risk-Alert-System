@@ -59,3 +59,16 @@ This made it challenging to prevent customer frustration, potential financial lo
 By flagging potentially fraudulent transactions early and creating a structured alert for investigation, the system helps 
 <strong>protect customers, reduce financial risk, and strengthen internal fraud monitoring processes</strong>.
 </p>
+
+### Key Analytical Focus
+--------------------------------
+
+The primary focus of this engagement analysis was to examine transactional and customer profile data to detect potentially fraudulent activities. Specifically, the work aimed to:
+
+1. <strong>Identify high-risk transactions</strong> by applying multiple rules that capture unusual spending behavior, cross-state activity, and new account anomalies.  
+2. <strong>Score and categorize transactions</strong> based on the number of rules triggered, creating clear risk levels (Medium, High, Very High).  
+3. <strong>Generate a fraud alert table</strong> that consolidates flagged transactions for further investigation by the fraud team.  
+4. <strong>Support regulatory compliance</strong> by enabling the generation of Suspicious Activity Reports (SARs).  
+
+This analysis ensures that suspicious transactions are detected proactively, helping protect customers, reduce financial losses, and strengthen the company’s internal fraud monitoring system.
+
