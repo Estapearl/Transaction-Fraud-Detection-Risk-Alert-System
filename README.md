@@ -61,7 +61,6 @@ By flagging potentially fraudulent transactions early and creating a structured 
 </p>
 
 <h2>3. Key Analytical Focus</h2>
-<hr>
 
 <h3>Engagement Analysis</h3>
 <p>
