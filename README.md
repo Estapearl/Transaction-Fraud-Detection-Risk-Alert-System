@@ -33,9 +33,30 @@
 </section>
 
 ---
-<h2>2. Business Problem Statement</h2>
+<h2>Business Problem & Project Aim</h2>
+<hr>
 
-<p>FinTech Solutions Inc. wanted to proactively detect suspicious transactions before they impacted customers or eroded trust. With increasing transaction volumes and more diverse customer accounts, it became harder for the fraud team to identify high-risk activity quickly.</p>
+<h3>The Problem</h3>
+<p>
+FinTech Solutions Inc. wanted to <strong>proactively detect suspicious transactions</strong> before they impacted customers or eroded trust. 
+With increasing transaction volumes and more diverse customer accounts, it became harder for the fraud team to identify high-risk activity quickly.
+</p>
+<p>
+Although transaction and customer data were available, there was <strong>no structured system to flag potentially fraudulent transactions in a timely manner</strong>. 
+This made it challenging to prevent customer frustration, potential financial losses, or compliance issues.
+</p>
 
-<p>Although transaction and customer data were available, there was no structured system to flag potentially fraudulent transactions in a timely manner. This made it challenging to prevent customer frustration, potential financial losses, or compliance issues.</p>
+<h3>Project Aim</h3>
+<p>The goal of this project was to <strong>develop a fraud alert system</strong> that:</p>
+<ol>
+    <li><strong>Identifies high-risk transactions</strong> before they impact customers.</li>
+    <li><strong>Assigns risk levels</strong> based on multiple fraud detection rules.</li>
+    <li><strong>Generates a fraud alert table</strong> that mirrors potentially fraudulent transactions for further investigations.</li>
+    <li><strong>Supports regulatory compliance</strong>, including generating Suspicious Activity Reports (SARs).</li>
+</ol>
 
+<h3>Outcome</h3>
+<p>
+By flagging potentially fraudulent transactions early and creating a structured alert for investigation, the system helps 
+<strong>protect customers, reduce financial risk, and strengthen internal fraud monitoring processes</strong>.
+</p>
