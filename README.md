@@ -60,15 +60,25 @@ By flagging potentially fraudulent transactions early and creating a structured 
 <strong>protect customers, reduce financial risk, and strengthen internal fraud monitoring processes</strong>.
 </p>
 
-### Key Analytical Focus
---------------------------------
+<h2>3. Key Analytical Focus</h2>
+<hr>
 
-The primary focus of this engagement analysis was to examine transactional and customer profile data to detect potentially fraudulent activities. Specifically, the work aimed to:
+<h3>Engagement Analysis</h3>
+<p>
+FinTech Solutions Inc. needed a <strong>structured approach to detect potentially fraudulent transactions</strong> as quickly as possible. 
+With growing transaction volumes and more diverse customer accounts, identifying high-risk activity manually was slow and prone to error.
+</p>
+<p>
+This analysis focused on leveraging <strong>transactional and customer profile data</strong> to:</p>
+<ol>
+    <li><strong>Detect unusual or high-risk transactions</strong> using multiple rule-based checks.</li>
+    <li><strong>Assign a fraud score</strong> to each transaction to indicate its risk level (Medium, High, Very High).</li>
+    <li><strong>Generate a consolidated fraud alert table</strong> to guide further investigations by the fraud team.</li>
+    <li><strong>Enable timely reporting</strong> for regulatory compliance, including the preparation of Suspicious Activity Reports (SARs).</li>
+</ol>
 
-1. <strong>Identify high-risk transactions</strong> by applying multiple rules that capture unusual spending behavior, cross-state activity, and new account anomalies.  
-2. <strong>Score and categorize transactions</strong> based on the number of rules triggered, creating clear risk levels (Medium, High, Very High).  
-3. <strong>Generate a fraud alert table</strong> that consolidates flagged transactions for further investigation by the fraud team.  
-4. <strong>Support regulatory compliance</strong> by enabling the generation of Suspicious Activity Reports (SARs).  
-
-This analysis ensures that suspicious transactions are detected proactively, helping protect customers, reduce financial losses, and strengthen the company’s internal fraud monitoring system.
+<h3>Outcome</h3>
+<p>
+By focusing on these areas, the analysis helped the company <strong>proactively flag suspicious transactions, minimize customer impact, and strengthen internal fraud monitoring</strong>.
+</p>
 
