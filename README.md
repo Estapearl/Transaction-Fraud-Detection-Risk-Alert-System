@@ -32,8 +32,8 @@
   </ul>
 </section>
 
----
-<h2>Business Problem & Project Aim</h2>
+
+<h2>2. Business Problem & Project Aim</h2>
 
 <h3>The Problem</h3>
 <p>
