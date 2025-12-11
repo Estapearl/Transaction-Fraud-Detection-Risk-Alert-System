@@ -13,37 +13,17 @@ As part of the fraud analytics function, my responsibility was to evaluate custo
 improve early-warning detection, and support compliance requirements. The organization needed deeper, data-driven visibility into suspicious activities 
 as transaction volumes grew and fraud attempts became more sophisticated.
 </p>
-<p>
 This portfolio project demonstrates how data-driven fraud monitoring can support operational decision-making and protect both customers and business assets.
-</p>
-
-<h2>Insights and Recommendations</h2>
 <p>Insights and recommendations are provided on the following key areas:</p>
 
-<h3>1. Customer Behavior Profiling</h3>
-<p>
-Identifying normal customer behavior patterns — including transaction frequency, value ranges, preferred channels, and historical activity — 
-to highlight accounts that begin operating outside expected behavior. 
-This helps isolate customers at higher risk of fraud manipulation or account takeover.
-</p>
+<h3>1. Customer Behavior Profiling: </h3> Identifying normal customer behavior patterns — including transaction frequency, value ranges, preferred channels, and historical activity to highlight accounts that begin operating outside expected behavior. This helps isolate customers at higher risk of fraud manipulation or account takeover.
 
-<h3>2. Transaction Anomaly Detection</h3>
-<p>
-Examining sudden spikes, cross-border activity, new beneficiaries, device changes, and high-value transfers to detect early signs of suspicious activity. 
-This provides proactive visibility into scenarios that typically precede fraudulent withdrawals or unauthorized use.
-</p>
+<h3>2. Transaction Anomaly Detection: Examining sudden spikes, cross-border activity, new beneficiaries, device changes, and high-value transfers to detect early signs of suspicious activity. This provides proactive visibility into scenarios that typically precede fraudulent withdrawals or unauthorized use.
 
-<h3>3. Rule-Based Fraud Scoring</h3>
-<p>
-Designing and applying fraud detection rules that automatically assign a risk score to each transaction. 
+<h3>3. Rule-Based Fraud Scoring: Designing and applying fraud detection rules that automatically assign a risk score to each transaction. 
 The scoring logic considers behavioral deviations, unusual patterns, and business-defined thresholds to classify transactions as Medium or High Risk.
-</p>
-
-<h3>4. Fraud Alert & Investigative Insight</h3>
-<p>
-Creating a structured fraud alert output that enables compliance and fraud teams to quickly review suspicious transactions, validate their legitimacy, 
-and prioritize cases for investigation. This supports faster decision-making and improves the organization’s fraud-risk posture.
-</p>
+  
+<h3>4. Fraud Alert & Investigative Insight: Creating a structured fraud alert output that enables compliance and fraud teams to quickly review suspicious transactions, validate their legitimacy, and prioritize cases for investigation. This supports faster decision-making and improves the organization’s fraud-risk posture.
 
 <p>
 The SQL queries used to inspect and clean the data for this analysis can be found here: <a href="[link]">link</a>.<br>
