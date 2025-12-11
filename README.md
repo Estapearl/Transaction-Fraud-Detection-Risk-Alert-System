@@ -3,6 +3,54 @@
   <h1>Transaction Fraud Detection &amp; Risk Alert System</h1>
   <p><strong>Domain:</strong> Fraud Analytics | Financial Crime | Digital Banking</p>
 
+  <h2>Background about the Company</h2>
+<p>
+FinTech Solutions Inc. is a digital payments company that has operated for over eight years, serving retail customers, SMEs, and online merchants across multiple regions. 
+The business processes high volumes of daily transactions, including fund transfers, bill payments, cross-border payments, and digital wallet activity.
+</p>
+<p>
+As part of the fraud analytics function, my responsibility was to evaluate customer behavior and transaction patterns to help the company reduce fraud exposure, 
+improve early-warning detection, and support compliance requirements. The organization needed deeper, data-driven visibility into suspicious activities 
+as transaction volumes grew and fraud attempts became more sophisticated.
+</p>
+<p>
+This portfolio project demonstrates how data-driven fraud monitoring can support operational decision-making and protect both customers and business assets.
+</p>
+
+<h2>Insights and Recommendations</h2>
+<p>Insights and recommendations are provided on the following key areas:</p>
+
+<h3>1. Customer Behavior Profiling</h3>
+<p>
+Identifying normal customer behavior patterns — including transaction frequency, value ranges, preferred channels, and historical activity — 
+to highlight accounts that begin operating outside expected behavior. 
+This helps isolate customers at higher risk of fraud manipulation or account takeover.
+</p>
+
+<h3>2. Transaction Anomaly Detection</h3>
+<p>
+Examining sudden spikes, cross-border activity, new beneficiaries, device changes, and high-value transfers to detect early signs of suspicious activity. 
+This provides proactive visibility into scenarios that typically precede fraudulent withdrawals or unauthorized use.
+</p>
+
+<h3>3. Rule-Based Fraud Scoring</h3>
+<p>
+Designing and applying fraud detection rules that automatically assign a risk score to each transaction. 
+The scoring logic considers behavioral deviations, unusual patterns, and business-defined thresholds to classify transactions as Medium or High Risk.
+</p>
+
+<h3>4. Fraud Alert & Investigative Insight</h3>
+<p>
+Creating a structured fraud alert output that enables compliance and fraud teams to quickly review suspicious transactions, validate their legitimacy, 
+and prioritize cases for investigation. This supports faster decision-making and improves the organization’s fraud-risk posture.
+</p>
+
+<p>
+The SQL queries used to inspect and clean the data for this analysis can be found here: <a href="[link]">link</a>.<br>
+Targeted SQL queries regarding various business questions can be found here: <a href="[link]">link</a>.
+</p>
+
+
   <h2>1. Client Background</h2>
   <p><strong>Client:</strong> FinTech Solutions Inc.</p>
   <p>
