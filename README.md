@@ -5,18 +5,25 @@
 
   <h2>Background about the Company</h2>
 <p>
-FinTech Solutions Inc. is a digital payments company that has operated for over eight years, serving retail customers, SMEs, and online merchants across multiple regions. 
-The business processes high volumes of daily transactions, including fund transfers, bill payments, cross-border payments, and digital wallet activity.
+FinTech Solutions Inc. is a financial technology company that provides digital payment and transaction services to individual customers and businesses. 
+As the company expanded its digital offerings, transaction volumes increased significantly, creating greater exposure to fraudulent activity 
+and increasing the need for proactive fraud monitoring.
+<p>
+The analysis was conducted on two years of historical data (2023–2024), covering approximately <strong>2,000 customers</strong> and 
+<strong>49,924 transactions</strong>. The data was organized into two core tables: a <strong>Customer Profile table</strong>, 
+which contained customer and account-level information, and a <strong>Transaction table</strong>, which captured detailed transaction activity 
+across different merchant categories, locations, and time periods.
 </p>
 <p>
 As part of the fraud analytics function, my responsibility was to evaluate customer behavior and transaction patterns to help the company reduce fraud exposure, 
-improve early-warning detection, and support compliance requirements. The organization needed deeper, data-driven visibility into suspicious activities 
+improve early-warning detection, and support compliance requirements. Fintech Solutions Inc. needed deeper, data-driven visibility into suspicious activities 
 as transaction volumes grew and fraud attempts became more sophisticated.
 </p>
-This portfolio project demonstrates how data-driven fraud monitoring can support operational decision-making and protect both customers and business assets.
+This analysis demonstrates how data-driven fraud monitoring can support operational decision-making and protect both customers and business assets.
+
 <p>Insights and recommendations are provided on the following key areas:</p>
 
-<h3>1. Customer Behavior Profiling: </h3> Identifying normal customer behavior patterns — including transaction frequency, value ranges, preferred channels, and historical activity to highlight accounts that begin operating outside expected behavior. This helps isolate customers at higher risk of fraud manipulation or account takeover.
+<h3>1. Customer Behavior Profiling: </h3> Identifying normal customer behavior patterns including transaction frequency, value ranges, preferred channels, and historical activity to highlight accounts that begin operating outside expected behavior. This helps isolate customers at higher risk of fraud manipulation or account takeover.
 
 <h3>2. Transaction Anomaly Detection: Examining sudden spikes, cross-border activity, new beneficiaries, device changes, and high-value transfers to detect early signs of suspicious activity. This provides proactive visibility into scenarios that typically precede fraudulent withdrawals or unauthorized use.
 
