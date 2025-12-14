@@ -35,6 +35,40 @@ The scoring logic considers behavioral deviations, unusual patterns, and busines
 <p>
 The SQL queries used to inspect and clean the data for this analysis can be found here: <a href="[link]">link</a>.<br>
 Targeted SQL queries regarding various business questions can be found here: <a href="[link]">link</a>.
+
+<p>
+<strong>Insights and recommendations are provided on the following key areas:</strong>
+</p>
+
+<p>
+<strong>Category 1: Customer Behavior Profiling</strong><br>
+Understanding how customers normally transact — how often they spend, typical transaction amounts, and usual activity patterns — 
+so that unusual behavior can be quickly identified.
+</p>
+
+<p>
+<strong>Category 2: Transaction Anomaly Detection</strong><br>
+Reviewing transactions for red flags such as unusually large amounts, cross-state activity, or sudden changes in spending behavior 
+that may indicate potential fraud.
+</p>
+
+<p>
+<strong>Category 3: Rule-Based Fraud Scoring</strong><br>
+Applying simple, business-driven fraud rules to assign risk levels to transactions, making it easier to distinguish between medium- and high-risk activity.
+</p>
+
+<p>
+<strong>Category 4: Fraud Alert & Investigative Insight</strong><br>
+Creating a clear and structured fraud alert view that helps fraud and compliance teams quickly review suspicious transactions 
+and focus investigations on the highest-risk cases.
+</p>
+
+<p>
+The SQL queries used to inspect and clean the data for this analysis can be found here: <a href="[link]">link</a>.
+</p>
+
+<p>
+Targeted SQL queries used to answer key fraud-monitoring questions can be found here: <a href="[link]">link</a>.
 </p>
 
 
