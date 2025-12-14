@@ -4,11 +4,11 @@
   <p><strong>Domain:</strong> Fraud Analytics | Financial Crime | Digital Banking</p>
 
   <h2>Background about the Company</h2>
-<p>
+
 FinTech Solutions Inc. is a financial technology company that provides digital payment and transaction services to individual customers and businesses. 
 As the company expanded its digital offerings, transaction volumes increased significantly, creating greater exposure to fraudulent activity 
 and increasing the need for proactive fraud monitoring.
-<p>
+
 The analysis was conducted on two years of historical data (2023–2024), covering approximately <strong>2,000 customers</strong> and 
 <strong>49,924 transactions</strong>. The data was organized into two core tables: a <strong>Customer Profile table</strong>, 
 which contained customer and account-level information, and a <strong>Transaction table</strong>, which captured detailed transaction activity 
