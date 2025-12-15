@@ -54,22 +54,15 @@ of high-risk alerts, and smoother hand-off to investigation or compliance teams,
 </p>
 
 </div>
-The SQL queries used to inspect and clean the data for this analysis can be found here: Data_Cleaning.sql
-.
+The SQL queries used to inspect and clean the data for this analysis can be found here: [Data_Cleaning.sql](./Data_Cleaning.sql).
 
-The SQL queries used to create features for analysis, such as account tenure, income-relative spending, and behavioral indicators, can be found here: Feature_Engineering.sql
-.
+Targeted SQL queries regarding various business questions can be found here: [EDA.sql](./EDA.sql).
 
-The SQL queries used to explore customer and transaction behavior, analyze risk patterns, and perform exploratory data analysis (EDA) can be found here: EDA.sql
-.
+Feature engineering transformations can be found here: [Feature_Engineering.sql](./Feature_Engineering.sql).
 
-The SQL queries implementing rule-based fraud detection, including cross-state high-value transactions, high spend on new accounts, and behavioral burst activity, can be found here: Rule_Based_Fraud_Detection.sql
-.
+The rule-based fraud detection queries can be found here: [Rule_Based_Fraud_Detection.sql](./Rule_Based_Fraud_Detection.sql).
 
-The SQL queries used to calculate fraud scores, classify transactions into risk levels, and generate the final fraud alert tables can be found here: Fraud_Scoring_Model.sql
-
-
-
+Fraud scoring and risk calculation queries can be found here: [Fraud_Scoring_Model.sql](./Fraud_Scoring_Model.sql).
 
 
 
