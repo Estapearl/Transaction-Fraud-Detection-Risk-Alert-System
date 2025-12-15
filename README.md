@@ -3,8 +3,7 @@
   <h1>Transaction Fraud Detection &amp; Risk Alert System</h1>
   <p><strong>Domain:</strong> Fraud Analytics | Financial Crime | Digital Banking</p>
 
-  <h2>Company Background</h2>
-  <h2>Fraud Risk Monitoring & Customer Behavior Analysis</h2>
+<h2>Fraud Risk Monitoring and Customer Behavior Analysis</h2>
 <hr>
 
 <div style="text-align: justify;">
@@ -27,6 +26,10 @@ From a fraud data analyst’s perspective, this dataset made it possible to unde
 changes in behavior, and flag transactions that deviated from expected patterns. The objective was not to label transactions as confirmed fraud, 
 but to proactively highlight high-risk activity that required further review. This approach supports faster investigations, reduces potential customer 
 impact, and strengthens the organization’s overall fraud monitoring capability.
+</p>
+
+<p>
+<strong>Insights and recommendations are provided on the following key areas:</strong>
 </p>
 
 <p>
@@ -56,6 +59,7 @@ of high-risk alerts, and smoother hand-off to investigation or compliance teams,
 </p>
 
 </div>
+
 
 
 
