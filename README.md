@@ -6,7 +6,7 @@
 <h2>Company Background</h2>
 <hr>
 <div style="text-align: justify;">
-<p>
+
 FinTech Solutions Inc. is a financial technology company that provides digital payment and transaction services to both individual customers and businesses. 
 As the company expanded its digital offerings, transaction volumes increased steadily, which also raised exposure to fraudulent activity and the need for 
 stronger, more proactive fraud monitoring processes.
