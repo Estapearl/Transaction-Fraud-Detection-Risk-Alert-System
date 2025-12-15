@@ -54,15 +54,13 @@ of high-risk alerts, and smoother hand-off to investigation or compliance teams,
 </p>
 
 </div>
-The SQL queries used to inspect and clean the data for this analysis can be found here: [Data_Cleaning.sql](./Data_Cleaning.sql).
+# SQL Queries for Portfolio Analysis
 
-Targeted SQL queries regarding various business questions can be found here: [EDA.sql](./EDA.sql).
-
-Feature engineering transformations can be found here: [Feature_Engineering.sql](./Feature_Engineering.sql).
-
-The rule-based fraud detection queries can be found here: [Rule_Based_Fraud_Detection.sql](./Rule_Based_Fraud_Detection.sql).
-
-Fraud scoring and risk calculation queries can be found here: [Fraud_Scoring_Model.sql](./Fraud_Scoring_Model.sql).
+- [Data_Cleaning.sql](./Data_Cleaning.sql) – SQL queries used to inspect and clean the data for this analysis.  
+- [EDA.sql](./EDA.sql) – SQL queries targeting various business questions and exploratory analysis.  
+- [Feature_Engineering.sql](./Feature_Engineering.sql) – Queries used to transform and create new features from raw data.  
+- [Rule_Based_Fraud_Detection.sql](./Rule_Based_Fraud_Detection.sql) – SQL rules to detect fraudulent transactions.  
+- [Fraud_Scoring_Model.sql](./Fraud_Scoring_Model.sql) – Queries used to compute fraud scores and classify risk levels.
 
 
 
