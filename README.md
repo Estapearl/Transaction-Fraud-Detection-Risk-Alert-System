@@ -26,10 +26,7 @@ but to proactively highlight high-risk activity that required further review. Th
 impact, and strengthens the organization’s overall fraud monitoring capability.
 </p>
 
-<p>
-<strong>Insights and recommendations are provided on the following key areas:</strong>
-</p>
-
+## Key Analytical Focus Areas
 <p>
 <strong>Customer Behavior Profiling:</strong> Customer transaction histories were analyzed to establish what “normal” behavior looks like for each account. 
 This included transaction frequency, typical spending ranges, preferred merchant categories, and usual transaction locations. Building this behavioral 
