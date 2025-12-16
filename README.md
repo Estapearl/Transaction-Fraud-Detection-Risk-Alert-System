@@ -15,15 +15,15 @@ stronger, more proactive fraud monitoring processes.
 <p>
 This analysis was conducted using two years of historical data (2023–2024), covering approximately <strong>2,000 customers</strong> and 
 <strong>49,924 transactions</strong>. The dataset consisted of two primary tables: a <strong>Customer Profile table</strong>, which contained customer 
-and account-level information, and a <strong>Transaction table</strong>, which captured detailed transaction activity across merchant categories, 
-locations, and time periods.
+and account-level information and a <strong>Transaction table</strong>, which captured detailed transaction activities across merchant categories, 
+locations and time periods.
 </p>
 
 <p>
 From a fraud data analyst’s perspective, this dataset made it possible to understand how customers typically transact over time, identify meaningful 
-changes in behavior, and flag transactions that deviated from expected patterns. The objective was not to label transactions as confirmed fraud, 
-but to proactively highlight high-risk activity that required further review. This approach supports faster investigations, reduces potential customer 
-impact, and strengthens the organization’s overall fraud monitoring capability.
+changes in behaviour, and flag transactions that deviated from expected patterns. The objective was not to label transactions as confirmed fraud, 
+but to proactively highlight high-risk activities that required further review. This approach supports faster investigations, reduces potential customer 
+impact and strengthens the organization’s overall fraud monitoring capability.
 </p>
 
 ## Key Analytical Focus Areas
