@@ -91,6 +91,24 @@ Several clear risk patterns emerged:
 **Why this matters:**
 These patterns help fraud teams focus monitoring efforts on high-risk customer segments early in the customer lifecycle, reducing false positives while improving early fraud detection.
 
+#### b. Transaction Anomaly Detection
+
+What we observed
+
+Transaction-level activity was reviewed across channels, locations, and time to identify behaviors that deviated from a customer’s usual pattern.
+
+Key anomaly signals stood out:
+
+- High-value transactions occurring outside a customer’s registered state were more likely to be flagged, especially for newer accounts.
+
+- Sudden spikes in transaction activity within a single day (multiple transactions or unusually large amounts) indicated potential account takeover or misuse.
+
+- Large transfers made shortly after account creation or following periods of low activity showed elevated fraud risk.
+
+Why this matters
+
+By focusing on deviations from normal transaction behavior rather than volume alone, fraud alerts become more targeted, allowing investigators to prioritize genuinely suspicious activity while reducing noise from legitimate transactions.
+
 
 
 
