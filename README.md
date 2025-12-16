@@ -55,7 +55,7 @@ of high-risk alerts, and smoother hand-off to investigation or compliance teams,
 
 </div>
 
-###  SQL Queries for Portfolio Analysis
+####  SQL Queries for Portfolio Analysis
 
 - **Data Cleaning & Inspection** – [View Queries](./Data_Cleaning.sql)  
   Queries used to inspect, validate, and clean the dataset before analysis.
@@ -73,7 +73,7 @@ of high-risk alerts, and smoother hand-off to investigation or compliance teams,
   Queries to calculate fraud scores and assign risk levels for flagged transactions.
   
 
-<h2>Insights Deep Dive Analysis</h2>
+## Insights Deep Dive Analysis
   
 #### a. Customer Risk Behavior Patterns
 
