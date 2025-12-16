@@ -71,6 +71,26 @@ of high-risk alerts, and smoother hand-off to investigation or compliance teams,
 
 - **Fraud Scoring & Risk Classification** – [View Queries](./Fraud_Scoring_Model.sql)  
   Queries to calculate fraud scores and assign risk levels for flagged transactions.
+  
+
+  <h2>Insights Deep Dive Analysis</h2>
+  
+  ### Customer Risk Behavior Patterns
+
+What we observed
+
+Customer transaction histories were analyzed across a two-year period to understand how spending behavior differs between normal and high-risk accounts.
+
+Several clear risk patterns emerged:
+
+- Newer customers (first 6 months) were significantly more likely to trigger fraud rules compared to long-tenured customers.
+
+- Customers whose transaction amounts exceeded **15%** of their reported income showed a much higher likelihood of being flagged.
+
+- Fraud signals were concentrated among a small subset of customers, rather than evenly spread across the customer base
+
+Why this matters:
+These patterns help fraud teams focus monitoring efforts on high-risk customer segments early in the customer lifecycle, reducing false positives while improving early fraud detection.
 
 
 
