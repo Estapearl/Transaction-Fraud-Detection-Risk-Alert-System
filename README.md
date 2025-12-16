@@ -75,7 +75,7 @@ of high-risk alerts, and smoother hand-off to investigation or compliance teams,
 
 ## Insights Deep Dive Analysis
   
-#### a. Customer Risk Behavior Patterns
+### a. Customer Risk Behavior Patterns
 
 What we observed
 
@@ -91,7 +91,7 @@ Several clear risk patterns emerged:
 **Why this matters:**
 These patterns help fraud teams focus monitoring efforts on high-risk customer segments early in the customer lifecycle, reducing false positives while improving early fraud detection.
 
-#### b. Transaction Anomaly Detection
+### b. Transaction Anomaly Detection
 
 What we observed
 
@@ -109,7 +109,7 @@ Why this matters
 
 By focusing on deviations from normal transaction behavior rather than volume alone, fraud alerts become more targeted, allowing investigators to prioritize genuinely suspicious activity while reducing noise from legitimate transactions.
 
-### Rule-Based Fraud Scoring
+### c. Rule-Based Fraud Scoring
 
 What we observed
 
