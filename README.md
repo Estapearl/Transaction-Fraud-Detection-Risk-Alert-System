@@ -156,6 +156,42 @@ The final fraud alert table consolidates flagged transactions and customers acro
 📎 [View Fraud Alert Table structure and sample output](https://docs.google.com/spreadsheets/d/1uHo4rg9z4UjpPLAJCsCqkzsN-8kPJByV/edit?usp=sharing&ouid=116906689787133958270&rtpof=true&sd=true)
 
 
+<h2>Recommendations</h2>
+
+<ol>
+  <li>
+    <strong>Prioritize Investigation of High and Medium-Risk Customers</strong><br>
+    Based on the fraud alert table, customers triggering <strong>2 or more rules</strong> are high risk, while those triggering <strong>1 rule</strong> are medium risk. Immediate investigation should focus on these groups, as even a single rule trigger may indicate fraudulent activity (observed in Rule 1: Cross-State transactions and Rule 2: New Account high spend).
+  </li>
+  
+  <li>
+    <strong>Monitor New Customers Closely</strong><br>
+    Analysis showed that <strong>customers within their first 6 months</strong> are disproportionately flagged across rules, especially for large transactions relative to income (Rule 2 and Rule 3). Strengthen verification checks for new accounts and implement early warning alerts.
+  </li>
+  
+  <li>
+    <strong>Focus on Income-Relative High Transactions</strong><br>
+    Transactions exceeding <strong>15% of reported income</strong> were consistently flagged, highlighting potential misuse (observed in Rule 2 and Rule 3). Consider adaptive transaction limits or manual review for accounts exhibiting this behavior.
+  </li>
+  
+  <li>
+    <strong>Leverage Behavioral Burst Analysis</strong><br>
+    Customers making <strong>3+ transactions in a single day</strong> or unusually high same-day spending (Rule 3) are strong fraud indicators. Implement daily monitoring dashboards for abnormal activity spikes.
+  </li>
+  
+  <li>
+    <strong>Integrate Fraud Scoring into Operational Workflows</strong><br>
+    Use the fraud score (1–3 points) to prioritize which alerts feed into the fraud monitoring dashboard. Customers with all three rules triggered are <strong>highest priority</strong>, ensuring investigators allocate attention effectively.
+  </li>
+  
+  <li>
+    <strong>Regularly Update Rules Based on Observed Patterns</strong><br>
+    Patterns in the alert table indicate concentrated fraud signals among a <strong>small subset of customers</strong>. Periodic review of flagged transactions and rule thresholds will maintain detection accuracy and reduce false positives.
+  </li>
+</ol>
+
+
+
 
 
 
