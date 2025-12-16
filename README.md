@@ -82,9 +82,7 @@ Customer transaction histories were analyzed across a two-year period to underst
 
 Several clear risk patterns emerged:
 - Newer customers (first 6 months) were significantly more likely to trigger fraud rules compared to long-tenured customers.
-
 - Customers whose transaction amounts exceeded **15%** of their reported income showed a much higher likelihood of being flagged.
-
 - Fraud signals were concentrated among a small subset of customers, rather than evenly spread across the customer base
 
 **Why this matters:**
@@ -99,9 +97,7 @@ Transaction-level activity was reviewed across channels, locations, and time to 
 Key anomaly signals stood out:
 
 - High-value transactions occurring outside a customer’s registered state were more likely to be flagged, especially for newer accounts.
-
 - Sudden spikes in transaction activity within a single day (multiple transactions or unusually large amounts) indicated potential account takeover or misuse.
-
 - Large transfers made shortly after account creation or following periods of low activity showed elevated fraud risk.
 
 Why this matters
@@ -116,9 +112,7 @@ Fraud risk was evaluated by applying multiple rule-based checks to each transact
 Key observations from the scoring logic:
 
 - Transactions that triggered multiple fraud rules simultaneously were significantly more likely to represent genuine risk than those triggering only one rule.
-
 - Cross-state high-value spending combined with new account activity consistently produced the highest fraud scores.
-
 - Behavioral burst activity (multiple transactions in a short time window) often acted as a secondary risk amplifier, pushing cases from medium to high risk.
 
 **Why this matters**
