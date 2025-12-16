@@ -109,6 +109,23 @@ Why this matters
 
 By focusing on deviations from normal transaction behavior rather than volume alone, fraud alerts become more targeted, allowing investigators to prioritize genuinely suspicious activity while reducing noise from legitimate transactions.
 
+### Rule-Based Fraud Scoring
+
+What we observed
+
+Fraud risk was evaluated by applying multiple rule-based checks to each transaction and customer activity, rather than relying on a single indicator.
+Key observations from the scoring logic:
+
+- Transactions that triggered multiple fraud rules simultaneously were significantly more likely to represent genuine risk than those triggering only one rule.
+
+- Cross-state high-value spending combined with new account activity consistently produced the highest fraud scores.
+
+- Behavioral burst activity (multiple transactions in a short time window) often acted as a secondary risk amplifier, pushing cases from medium to high risk.
+
+**Why this matters**
+
+Scoring fraud using layered rules allows risk teams to prioritize investigations efficiently. Instead of treating all alerts equally, resources can be focused on high-scoring cases where multiple independent risk signals align, improving both detection accuracy and operational efficiency.
+
 
 
 
