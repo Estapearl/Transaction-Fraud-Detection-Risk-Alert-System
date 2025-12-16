@@ -28,27 +28,26 @@ impact and strengthens the organization’s overall fraud monitoring capability.
 
 ## Key Analytical Focus Areas
 <p>
-<strong>Customer Behavior Profiling:</strong> Customer transaction histories were analyzed to establish what “normal” behavior looks like for each account. 
-This included transaction frequency, typical spending ranges, preferred merchant categories, and usual transaction locations. Building this behavioral 
-context made it easier to identify customers whose activity suddenly deviated from historical patterns, which is often an early indicator of potential 
+<strong>1. Customer Behavior Profiling:</strong> Customer transaction histories were analyzed to establish what “normal” behaviour looks like for each account. 
+This included transaction frequency, typical spending ranges, preferred merchant categories and usual transaction locations both States and International. Building this behavioral context made it easier to identify customers whose activity suddenly deviated from historical patterns, which is often an early indicator of potential 
 fraud or account misuse.
 </p>
 
 <p>
-<strong>Transaction Anomaly Detection:</strong> Transactions were reviewed for patterns commonly associated with elevated fraud risk, such as unusually 
+<strong>2. Transaction Anomaly Detection:</strong> Transactions were reviewed for patterns commonly associated with elevated fraud risk, such as unusually 
 large transaction amounts, cross-state activity that differed from a customer’s registered location, and abnormal transaction timing. These anomalies 
 helped surface transactions that stood out from expected behavior and required closer attention from the fraud or compliance team.
 </p>
 
 <p>
-<strong>Rule-Based Fraud Scoring:</strong> Business-driven fraud rules were applied to convert suspicious behavior into measurable risk signals. 
+<strong>3. Rule-Based Fraud Scoring:</strong> Business-driven fraud rules were applied to convert suspicious behavior into measurable risk signals. 
 Each transaction was evaluated against predefined conditions, and a fraud score was assigned based on the number of risk indicators triggered. 
 This scoring approach enabled consistent classification of transactions into Medium- and High-Risk categories, allowing investigative efforts 
 to be prioritized more effectively.
 </p>
 
 <p>
-<strong>Fraud Alert and Investigative Support:</strong> The final output of the analysis was a structured fraud alert table that consolidated transaction 
+<strong>4. Fraud Alert and Investigative Support:</strong> The final output of the analysis was a structured fraud alert table that consolidated transaction 
 details, customer context, rule hits, and assigned risk levels into a single view. This structure supports faster case review, clearer prioritization 
 of high-risk alerts, and smoother hand-off to investigation or compliance teams, aligning closely with real-world fraud monitoring workflows.
 </p>
