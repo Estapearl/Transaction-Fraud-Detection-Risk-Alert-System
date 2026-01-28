@@ -56,21 +56,23 @@
   Queries to calculate fraud scores and assign risk levels for flagged transactions.
   
 
-## Insights Deep Dive Analysis
-  
-### a. Customer Risk Behavior Patterns
+<section id="finding-1">
+  <h3>Finding 1: High-risk activity was concentrated within the first six months after account opening</h3>
 
-What we observed
+  <p>
+    A significant portion of the high-risk activity identified occurred within the first six months after
+    account opening. These cases were driven by newly opened accounts making unusually large transactions
+    early on, particularly amounts above <strong>$7,000</strong> or transactions exceeding
+    <strong>15%</strong> of reported income.
+  </p>
 
-Customer transaction histories were analyzed across a two-year period to understand how spending behavior differs between normal and high-risk accounts.
+  <p>
+    This pattern is commonly associated with account misuse or mule activity, where accounts are quickly used
+    for high-value transactions shortly after being created. Monitoring for high spending during the early
+    months of an account’s lifecycle helps surface this type of risk before activity escalates.
+  </p>
+</section>
 
-Several clear risk patterns emerged:
-- Newer customers (first 6 months) were significantly more likely to trigger fraud rules compared to long-tenured customers.
-- Customers whose transaction amounts exceeded **15%** of their reported income showed a much higher likelihood of being flagged.
-- Fraud signals were concentrated among a small subset of customers, rather than evenly spread across the customer base
-
-**Why this matters:**
-These patterns help fraud teams focus monitoring efforts on high-risk customer segments early in the customer lifecycle, reducing false positives while improving early fraud detection.
 
 ### b. Transaction Anomaly Detection
 
