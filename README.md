@@ -56,7 +56,7 @@
   Queries to calculate fraud scores and assign risk levels for flagged transactions.
   
 
-<section id="finding-1">
+<section id="Insight-1">
   <h3>Finding 1: High-risk activity was concentrated within the first six months after account opening</h3>
 
   <p>
