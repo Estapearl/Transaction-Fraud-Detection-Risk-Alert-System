@@ -74,21 +74,24 @@
 </section>
 
 
-### b. Transaction Anomaly Detection
+<section id="insight-2">
+  <h3>Insight 2: Early high-value out-of-state spending stood out, especially across certain merchant categories</h3>
 
-What we observed
+  <p>
+    A recurring risk pattern involved newly opened accounts making high-value transactions outside their
+    registered state within the first six months after account opening. These cases stood out most when the
+    spending occurred across merchant categories such as <strong>electronics</strong>, <strong>gambling</strong>,
+    and <strong>home maintenance</strong>, particularly when transaction amounts exceeded <strong>$4,000</strong>
+    or represented a large share of a customer’s reported income.
+  </p>
 
-Transaction-level activity was reviewed across channels, locations, and time to identify behaviors that deviated from a customer’s usual pattern.
-
-Key anomaly signals stood out:
-
-- High-value transactions occurring outside a customer’s registered state were more likely to be flagged, especially for newer accounts.
-- Sudden spikes in transaction activity within a single day (multiple transactions or unusually large amounts) indicated potential account takeover or misuse.
-- Large transfers made shortly after account creation or following periods of low activity showed elevated fraud risk.
-
-Why this matters
-
-By focusing on deviations from normal transaction behavior rather than volume alone, fraud alerts become more targeted, allowing investigators to prioritize genuinely suspicious activity while reducing noise from legitimate transactions.
+  <p>
+    Combining transaction value, location change, and merchant context helped highlight activity that was less
+    consistent with routine customer behavior and more indicative of potential account misuse. This approach
+    supports more focused reviews by prioritizing cases where multiple risk indicators align, rather than
+    relying on a single signal alone.
+  </p>
+</section>
 
 ### c. Rule-Based Fraud Scoring
 
