@@ -93,6 +93,24 @@
   </p>
 </section>
 
+<section id="insight-3">
+  <h3>Insight 3: Same-day transaction bursts were a clear risk pattern in new accounts</h3>
+
+  <p>
+    A noticeable pattern involved newer accounts showing unusually intense activity within a single day.
+    This included customers making <strong>three or more transactions in one day</strong>, or making a
+    <strong>very large transaction (above $6,000)</strong>, especially when the amount was high relative to
+    their reported income.
+  </p>
+
+  <p>
+    This kind of rapid, high-value activity can reflect attempts to move funds quickly rather than normal
+    day-to-day spending. Highlighting these same-day bursts helps risk teams focus on cases where both speed
+    and transaction size increase the potential risk.
+  </p>
+</section>
+
+
 ### c. Rule-Based Fraud Scoring
 
 What we observed
