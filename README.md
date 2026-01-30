@@ -73,6 +73,15 @@
   </p>
 </section>
 
+<section id="key-findings-transaction-monitoring">
+  <h2>Key Findings from Transaction Monitoring</h2>
+</section>
+<p>
+  After applying the transaction monitoring logic, several consistent risk patterns emerged across customer
+  and transaction activity. These insights highlight where higher-risk behavior tended to concentrate and help
+  explain how alerts can be prioritised for further review.
+</p>
+
 
 <section id="insight-2">
   <h3>Insight 2: Early high-value out-of-state spending stood out, especially across certain merchant categories</h3>
