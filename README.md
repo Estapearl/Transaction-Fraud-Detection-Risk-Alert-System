@@ -55,6 +55,13 @@
 - **Fraud Scoring & Risk Classification** – [View Queries](./Fraud_Scoring_Model.sql)  
   Queries to calculate fraud scores and assign risk levels for flagged transactions.
   
+<h2>Key Findings from Transaction Monitoring</h2>
+<p>
+  After applying the transaction monitoring logic, several consistent risk patterns emerged across customer
+  and transaction activity. These insights highlight where higher-risk behavior tended to concentrate and help
+  explain how alerts can be prioritised for further review.
+</p>
+
 
 <section id="Insight-1">
   <h3>Finding 1: High-risk activity was concentrated within the first six months after account opening</h3>
