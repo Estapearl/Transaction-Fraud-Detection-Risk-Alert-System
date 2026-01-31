@@ -38,31 +38,6 @@
 
 </div>
 
-<h2>Key Findings from Transaction Monitoring</h2>
-<p>
-  After applying the transaction monitoring logic, several consistent risk patterns emerged across customer
-  and transaction activity. These insights highlight where higher-risk behavior tended to concentrate and help
-  explain how alerts can be prioritised for further review.
-</p>
-
-
-<section id="Insight-1">
-  <h3>Finding 1: High-risk activity was concentrated within the first six months after account opening</h3>
-
-  <p>
-    A significant portion of the high-risk activity identified occurred within the first six months after
-    account opening. These cases were driven by newly opened accounts making unusually large transactions
-    early on, particularly amounts above <strong>$7,000</strong> or transactions exceeding
-    <strong>15%</strong> of reported income.
-  </p>
-
-  <p>
-    This pattern is commonly associated with account misuse or mule activity, where accounts are quickly used
-    for high-value transactions shortly after being created. Monitoring for high spending during the early
-    months of an account’s lifecycle helps surface this type of risk before activity escalates.
-  </p>
-</section>
-
 <section id="key-findings-transaction-monitoring">
   <h2>Key Findings from Transaction Monitoring</h2>
 </section>
