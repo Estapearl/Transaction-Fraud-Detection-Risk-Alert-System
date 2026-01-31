@@ -126,17 +126,36 @@
   </p>
 </section>
 
+<section id="fraud-risk-scoring">
+  <h2>Fraud Risk Scoring and Alert Prioritization</h2>
 
-### c. Rule-Based Fraud Scoring
+  <p>
+    To move from identifying risk patterns to taking action, the transaction monitoring signals were combined
+    into a simple fraud risk scoring approach. Rather than treating every flagged transaction the same, risk
+    was prioritised based on how many independent risk indicators appeared together.
+  </p>
 
-What we observed
+  <p>
+    Transactions that triggered <strong>one risk rule</strong> were classified as <strong>medium risk</strong>
+    and flagged for review. Transactions that triggered <strong>two risk rules</strong> were classified as
+    <strong>high risk</strong>, while transactions that triggered <strong>all three rules</strong> were
+    classified as <strong>very high risk</strong> and represented the highest-priority cases for investigation.
+  </p>
 
-Fraud risk was evaluated by applying multiple rule-based checks to each transaction and customer activity, rather than relying on a single indicator.
-Key observations from the scoring logic:
+  <p>
+    This scoring structure helped separate isolated risk signals from cases where multiple indicators aligned,
+    allowing investigative attention to be focused where potential risk was greatest. It also provided clearer
+    guidance to <strong>operations teams</strong> by indicating which cases required immediate attention versus
+    those that could be handled through standard review processes.
+  </p>
 
-- Transactions that triggered multiple fraud rules simultaneously were significantly more likely to represent genuine risk than those triggering only one rule.
-- Cross-state high-value spending combined with new account activity consistently produced the highest fraud scores.
-- Behavioral burst activity (multiple transactions in a short time window) often acted as a secondary risk amplifier, pushing cases from medium to high risk.
+  <p>
+    While all rules were initially treated with equal importance for clarity and explainability, the framework
+    allows for future refinement. In a production environment, certain signals—such as spending far above
+    reported income—could be prioritised further based on observed risk and business impact.
+  </p>
+</section>
+
 
 **Why this matters**
 
