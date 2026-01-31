@@ -1,8 +1,21 @@
 <h1>Transaction Monitoring &amp; Fraud Risk Prioritization Using Behavioral and Rule-Based Signals</h1>
+
 <p style="font-size: 0.95em; margin-top: 0.25rem;">
   <strong>Domain:</strong> Transaction Monitoring | Fraud Analytics | Digital Banking
 </p>
 
+<p>
+  This project presents a practical transaction monitoring and fraud risk prioritization case study built
+  using explainable, rule-based behavioral signals. Using two years of transaction data (2023–2024), the
+  analysis focuses on identifying higher-risk activity early and translating observed risk patterns into
+  actionable alerts that support prioritised review.
+</p>
+
+<p>
+  The objective was not to confirm fraud, but to surface activity that warrants further attention. The approach
+  mirrors real-world transaction monitoring by keeping detection logic transparent, grouping alerts into risk
+  tiers, and supporting efficient investigation without disrupting legitimate customer activity.
+</p>
 
 <section id="risk-data-context">
   <h2>Risk &amp; Data Context</h2>
@@ -25,6 +38,7 @@
     explainable signals help teams focus on the right cases without disrupting legitimate customers.
   </p>
 </section>
+
 
 <section id="fraud-risk-areas-analyzed">
   <h2>Fraud Risk Areas Analyzed</h2>
