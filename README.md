@@ -40,23 +40,36 @@
 
 <section id="key-findings-transaction-monitoring">
   <h2>Key Findings from Transaction Monitoring</h2>
-</section>
-<p>
-  After applying the transaction monitoring logic, several consistent risk patterns emerged across customer
-  and transaction activity. These insights highlight where higher-risk behavior tended to concentrate and help
-  explain how alerts can be prioritised for further review.
-</p>
 
+  <p>
+    After applying the transaction monitoring logic, several consistent risk patterns emerged across customer
+    and transaction activity. These insights highlight where higher-risk behavior tended to concentrate and
+    help explain how alerts can be prioritised for further review.
+  </p>
 
-<section id="insight-2">
+  <h3>Insight 1: High-risk activity was concentrated within the first six months after account opening</h3>
+
+  <p>
+    A significant portion of the high-risk activity identified occurred within the first six months after
+    account opening. These cases were driven by newly opened accounts making unusually large transactions
+    early on, particularly amounts above <strong>$7,000</strong> or transactions exceeding
+    <strong>15%</strong> of reported income.
+  </p>
+
+  <p>
+    This pattern is commonly associated with account misuse or mule activity, where accounts are quickly used
+    for high-value transactions shortly after being created. Monitoring for high spending during the early
+    months of an account’s lifecycle helps surface this type of risk before activity escalates.
+  </p>
+
   <h3>Insight 2: Early high-value out-of-state spending stood out, especially across certain merchant categories</h3>
 
   <p>
     A recurring risk pattern involved newly opened accounts making high-value transactions outside their
     registered state within the first six months after account opening. These cases stood out most when the
     spending occurred across merchant categories such as <strong>electronics</strong>, <strong>gambling</strong>,
-    and <strong>home maintenance</strong>, particularly when transaction amounts exceeded <strong>$4,000</strong>
-    or represented a large share of a customer’s reported income.
+    and <strong>home maintenance</strong>, particularly when transaction amounts exceeded
+    <strong>$4,000</strong> or represented a large share of a customer’s reported income.
   </p>
 
   <p>
@@ -65,9 +78,7 @@
     supports more focused reviews by prioritizing cases where multiple risk indicators align, rather than
     relying on a single signal alone.
   </p>
-</section>
 
-<section id="insight-3">
   <h3>Insight 3: Same-day transaction bursts were a clear risk pattern in new accounts</h3>
 
   <p>
@@ -83,6 +94,7 @@
     and transaction size increase the potential risk.
   </p>
 </section>
+
 
 <section id="fraud-risk-scoring">
   <h2>Fraud Risk Scoring and Alert Prioritization</h2>
